@@ -1,0 +1,31 @@
+
+    .main{
+        /* align-items: center; */
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        background-color: dimgrey;
+        padding: 20px;
+        --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+
+    }
+
+    .home{
+        margin-top: 92px;
+    }
+/*
+    .img{
+/* The image used */
+/* background-image: url("https://cdn3.photostockeditor.com/t/0511/pc-man-in-blue-dress-shirt-using-computer-laptop-laptop-image.jpg"); */
+
+/* Full height */
+/* height: 100%;  */
+
+/* Center and scale the image nicely */
+/*
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+    }
+   */

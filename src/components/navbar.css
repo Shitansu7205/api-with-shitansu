@@ -1,0 +1,30 @@
+.name{
+    height: 38px;
+    padding: 9px;
+    font-size: large;
+    font-weight: 900;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    cursor: pointer;
+}
+
+
+ul li :hover{
+    color: gray;
+}
+
+.navbar{
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+
+}
+
+.chinu{
+    /* background-color: green; */
+    
+}
+
+li{
+    padding-top: 7px;
+}
